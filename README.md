@@ -14,18 +14,26 @@
 * Пример:
 
 a = "dniMyMdegnahCybuR"
+
 a.object_id # => 12345
 
 Важно! Сигнатура метода (имя, количество аргументов) должно совпадать с примером
+
 def test(value)
+
  < ваш код тут >
+ 
 end
 
 test(a) # => "Rubychangedmymind"
+
 test(a).class # => String
+
 test(a).object_id # => 12345
+
 puts a # => "Rubychangedmymind"
 
 * Решение:
+
 [task1_1.rb](scripts/task1_1.rb)
 
