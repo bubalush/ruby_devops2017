@@ -24,14 +24,12 @@ def test(value)
  < ваш код тут >
  
 end
-
+```ruby
 test(a) # => "Rubychangedmymind"
-
 test(a).class # => String
-
 test(a).object_id # => 12345
-
 puts a # => "Rubychangedmymind"
+```
 
 * Решение:
 
