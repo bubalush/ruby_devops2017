@@ -157,4 +157,5 @@ mtn4.check! # => "FAIL"
 
 ###### Решение:
 [task4.rb](scripts/task4.rb) - окончательное решение
+
 [task4_v2.rb](scripts/task4_v2.rb) - решение с реализацией проверочного класса
